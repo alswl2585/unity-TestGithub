@@ -9,6 +9,8 @@ public class HelloWorld : MonoBehaviour
     {
        // Debug.Log("HelloWorld");
         Debug.Log("안녕하세요 학원에서 바꾸는 중입니다.!!");
+        Debug.Log("안녕하세요 나연입니다.11");
+
     }
 
     // Update is called once per frame
